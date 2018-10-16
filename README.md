@@ -1,5 +1,12 @@
 # Changelog
 
+## 0.5.1 (October 16, 2018)
+
+### Reports
+
+* Added Marketing Campaigns
+* Added Abandoned Orders
+
 ## 0.5.0 (October 16, 2018)
 
 ### Subscription Manager Updates
