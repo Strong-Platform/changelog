@@ -1,5 +1,12 @@
 # Changelog
 
+## 0.5.2 (October 18, 2018)
+
+### Customer Manager
+* [Redesign edit view](https://s3.amazonaws.com/strong-platform-public/customer-manager.gif)
+* Enable edit
+* Enable update password
+
 ## 0.5.1 (October 16, 2018)
 
 ### Reports
