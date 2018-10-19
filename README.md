@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.5.3 (October 18, 2018)
+
+### Style Updates
+* small changes to navigation, capsules and login
+* logout as off-canvas sidebar
+
 ## 0.5.2 (October 18, 2018)
 
 ### Customer Manager
