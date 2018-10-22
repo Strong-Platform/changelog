@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.5.4 (October 22, 2018)
+
+### Seach Improvements
+* search by a customer's email address was not working, that is fixed
+* search was always doing OR which was leading to too many results, default to AND
+
 ## 0.5.3 (October 18, 2018)
 
 ### Style Updates
