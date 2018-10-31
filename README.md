@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.5.5 (October 31, 2018)
+
+* added initial Coupon report
+
 ## 0.5.4 (October 22, 2018)
 
 ### Seach Improvements
