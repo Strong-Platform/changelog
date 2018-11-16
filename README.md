@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.5.6
+
+* restrict coupon to subscription plan
+* better support for international shipping
+
 ## 0.5.5 (October 31, 2018)
 
 * added initial Coupon report
